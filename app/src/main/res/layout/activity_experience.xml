@@ -77,6 +77,14 @@
                         android:textColor="#000000"
                         android:textSize="18sp"
                         android:layout_marginLeft="20dp"/>
+                    <Button
+                        android:id="@+id/btn_ramalanjodoh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:text="Click Here!"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="20dp"
+                        android:background="@drawable/background_button"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
@@ -84,6 +92,15 @@
                         android:textColor="#000000"
                         android:textSize="18sp"
                         android:layout_marginLeft="20dp"/>
+                    <Button
+                        android:id="@+id/btn_dompetku"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:text="Click Here!"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/background_button"/>
                 </LinearLayout>
             </android.support.v7.widget.CardView>
             <android.support.v7.widget.CardView
@@ -112,6 +129,15 @@
                         android:textColor="#000000"
                         android:textSize="18sp"
                         android:layout_marginLeft="20dp"/>
+                    <Button
+                        android:id="@+id/btn_squline"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        android:text="Click Here!"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/background_button"/>
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>
